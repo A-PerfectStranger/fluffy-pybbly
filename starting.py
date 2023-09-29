@@ -1,1 +1,0 @@
-print("Hi, i'm learning python")
